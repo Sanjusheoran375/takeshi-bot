@@ -1,19 +1,19 @@
 const path = require("path");
 
 // Prefixo dos comandos.
-exports.PREFIX = "/";
+exports.PREFIX = ".";
 
 // Emoji do bot (mude se preferir).
 exports.BOT_EMOJI = "🤖";
 
 // Nome do bot (mude se preferir).
-exports.BOT_NAME = "Takeshi Bot";
+exports.BOT_NAME = "GROUP Bot";
 
 // Número do bot. Coloque o número do bot (apenas números).
-exports.BOT_NUMBER = "5511920202020";
+exports.BOT_NUMBER = "919728893187";
 
 // Número do dono do bot. Coloque o número do dono do bot (apenas números).
-exports.OWNER_NUMBER = "5511999999999";
+exports.OWNER_NUMBER = "919728893187";
 
 // Diretório dos comandos
 exports.COMMANDS_DIR = path.join(__dirname, "commands");
